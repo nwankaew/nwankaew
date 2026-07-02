@@ -36,8 +36,13 @@ I specialize in building digital health products by combining Bioinformatics, Da
        title="SLURM Workload Manager"
        width="36"
        height="36" />
-</a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-</p>
+</a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36" /></a><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+       alt="Amazon Web Services"
+       title="Amazon Web Services"
+       width="36"
+       height="36" />
+</a>
 
 ### Socials
 
